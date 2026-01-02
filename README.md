@@ -1,4 +1,4 @@
-# Awesome CSS Frameworks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# CSS Awesome Frameworks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Contents
 - [Base / Reset / Normalize](#base--reset--normalize)
